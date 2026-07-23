@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Jayasankara 👋
 
-<!--
-**jmandadi07-svg/jmandadi07-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- MERN Stack
+- SAP ABAP
+- MongoDB
+- Node.js
+- React
+- Blockchain Development
+
+## Skills
+
+### Languages
+- Java
+- JavaScript
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Projects
+
+### Blockchain-Based Academic Credential Verification
+A decentralized platform for issuing and verifying academic certificates using blockchain.
+
+### Gym Management System
+Requirement analysis and documentation project for gym operations.
+
+## Currently Working On
+- MERN Stack Projects
+- SAP ABAP
+- Building my GitHub portfolio
+
+## Connect with me
+
+LinkedIn: https://www.linkedin.com/in/sai-jayasankara-mandadi-311158327/
+
+Email: jmandadi07@gmail.com
